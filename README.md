@@ -14,7 +14,8 @@
 
 - 📫 How to reach me **samsm@outlook.in**
 
-- 📄 Know about my experiences [github.com/cercit](github.com/cercit)
+- 📄 Know about my professional background and experiences <a href="https://www.linkedin.com/in/sameersm" target="_blank">linkedin.com/in/sameersm</a>.
+
 
 - ⚡ Fun fact **I am an Numismatician**
 
