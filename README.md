@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [github.com/cercit](github.com/cercit)
+- 👨‍💻 All of my projects are available at [github.com/cercit](github.com/cercit/DataDive)
 
 - My Skills includes [Power BI, Google Sheets, Excel, SQL, Python](Power BI, Google Sheets, Excel, SQL, Python)
 
